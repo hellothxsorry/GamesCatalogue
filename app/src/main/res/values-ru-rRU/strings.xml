@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Каталог игр: "</string>
+    <string name="top_rated">Популярные</string>
+    <string name="rating">Оценка Metacritic:</string>
+    <string name="release_date">Дата выхода:</string>
+    <string name="game_title">Название игры:</string>
+    <string name="home">Главная</string>
+    <string name="favourite">Избранное</string>
+    <string name="description">Описание</string>
+    <string name="user_comments">Обзоры игроков</string>
+    <string name="no_comments">Для данной игры обзоров не обнаружено</string>
+    <string name="n_a">Н/Д</string>
+    <string name="loading">Загрузка...</string>
+    <string name="release_soon">Скоро выйдет</string>
+    <string name="game_poster">Игровой постер</string>
+</resources>
